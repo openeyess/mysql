@@ -6,7 +6,7 @@ A library that makes contact with MySQL via API.
 ```lua
 require('mysql')
 
-query(string sql [, values table], function(err, result, fields) callback)
+query(string sql [, table values], function(err, result, fields) callback)
 ```
 
 ## How to implement
