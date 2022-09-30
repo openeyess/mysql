@@ -25,7 +25,8 @@ query('SELECT ? + ?', {1, 2}, function(err, result, fields)
 end)
 ```
 
-No values
+
+Without values
 ```lua
 require('mysql')
 
