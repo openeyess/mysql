@@ -1,0 +1,8 @@
+<orp>
+    <!-- Libs -->
+    <script src="libs/@mysql/index.orp" type="server" />
+
+    <script src="build/main.orp" type="shared" />
+
+    <oop>true</oop>
+</orp>
